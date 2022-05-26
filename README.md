@@ -8,22 +8,32 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1
 </br>
+Import the required modules.
+
 </br> 
 
 ### Step2
 </br>
+Convert the image from BGR to RGB.
+
 </br> 
 
 ### Step3
 </br>
+Apply the required filters for the image separately.
+
 </br> 
 
 ### Step4
 </br>
+Plot the original and filtered image by using matplotlib.pyplot
+
 </br> 
 
 ### Step5
 </br>
+End the program.
+
 </br> 
 
 ## Program:
